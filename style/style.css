@@ -8,7 +8,7 @@ body {
 
 /* Navbar */
 .navbar {
-  background-color: #16A34A;
+  background-color: white;
   color: white;
   padding: 10px 20px;
   position: relative;
@@ -55,7 +55,7 @@ body {
 }
 
 .menu a {
-  color: white;
+  color: #16A34A;
   text-decoration: none;
   padding: 8px;
   display: block;
@@ -70,7 +70,7 @@ body {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #166534;
+  background: white;
   display: none;
   min-width: 180px;
   z-index: 10;
@@ -103,14 +103,14 @@ body {
   font-size: 1.5rem;
   background: none;
   border: none;
-  color: white;
+  color: #16A34A;
   display: none;
   cursor: pointer;
   margin-left: auto;
 }
 
 .mobile-menu {
-  background-color: #16A34A;
+  background-color: white;
   padding: 10px 20px;
 }
 
